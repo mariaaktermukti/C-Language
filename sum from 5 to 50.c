@@ -7,7 +7,7 @@ int main(){
 
  }
 
-   printf("numbers are %d sum is = %d ",i,sum);
+   printf("sum is = %d ",sum);
 
 
 
